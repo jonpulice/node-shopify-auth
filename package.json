@@ -1,0 +1,21 @@
+{
+  "name": "node-shopify-auth",
+  "version": "1.0.0",
+  "description": "Shopify Authentication + API Module",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shopify"
+  ],
+  "author": "Jonathan Pulice",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonpulice/node-shopify-auth.git"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
