@@ -1,6 +1,6 @@
 {
   "name": "node-shopify-auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shopify Authentication + API Module",
   "main": "./lib/main.js",
   "scripts": {
