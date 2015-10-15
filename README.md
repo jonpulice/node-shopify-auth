@@ -1,6 +1,8 @@
 node-shopify-auth
 =================
 
+[![npm version](https://badge.fury.io/js/node-shopify-auth.svg)](https://badge.fury.io/js/node-shopify-auth)
+
 A Shopify.com OAuth Authentication + API Module for Node.js + Express 4.x
 
 Installing
